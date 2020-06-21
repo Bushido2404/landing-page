@@ -1,0 +1,78 @@
+/* Navigasi */
+.nav-link:hover{
+    box-shadow: 0px 1px 4px black;
+}
+
+/* Contoh */
+.pin{
+    box-shadow: 0px 1px 4px black;
+}
+
+
+
+/* Jumbotron */
+.jumbotron{
+    background-image: url('../img/1.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    height: 400px;
+}
+/*service*/
+
+.panel img{
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.panel{
+    padding: 20px;
+}
+.panel h4{
+    margin-top: 4px;
+}
+
+
+.jumbotron p{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0, 0.7);
+    text-indent: -100px;
+}
+.jumbotron span{
+    font-weight: bold;
+}
+/* Jasa Web */
+.card-title{
+    font-weight: 100;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 38px;
+}
+.badge-pill{
+    border-radius: 40;
+    height: 50px;
+    margin-bottom: 16;
+}
+.testi{
+    height: 200px;
+    width: 200px;
+}
+
+.footer{    
+    box-shadow: 0px 1px 4px black;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: gray;
+}
+/*Desktop Version*/
+@media (min-width: 992px){
+}
